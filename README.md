@@ -25,13 +25,17 @@ cd appointment-system
 npm install
 ```
 
-### 3. Run
+### 4. Run
+
+Rename .env-sample to .env
+
+### 5. Run
 
 ```sh
 npm run start
 ```
 
-### 4. Test the endpoints
+### 6. Test the endpoints
 
 #### Available Slots
 

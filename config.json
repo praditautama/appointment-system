@@ -1,0 +1,15 @@
+{
+    "operationalHours": {
+      "start": "09:00",
+      "end": "18:00"
+    },
+    "slotDuration": 30,
+    "maxSlotsPerAppointment": 1,
+    "daysOff": ["2024-04-04"],
+    "unavailableHours": {
+      "lunchBreak": {
+        "start": "12:00",
+        "end": "13:00"
+      }
+    }
+  }
